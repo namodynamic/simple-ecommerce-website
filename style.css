@@ -158,7 +158,6 @@ header a ion-icon {
 .section1 {
   width: 1080px;
   overflow: hidden;
-
   justify-content: center;
   align-items: center;
   margin: 0px auto;
@@ -182,7 +181,7 @@ header a ion-icon {
 }
 .section2 .container .items .name {
   text-align: center;
-  background-color: rgb(240, 197, 6);
+  background-color: rgb(54, 62, 77);
   height: 25px;
   padding-top: 4px;
   color: white;
@@ -193,12 +192,12 @@ header a ion-icon {
   padding-left: 10px;
   display: block;
   width: 100%;
-  color: rgb(255, 0, 0);
+  color: rgb(15, 15, 15);
   font-weight: 650;
 }
 .section2 .container .items .info {
   padding-left: 10px;
-  color: rgb(243, 168, 7);
+  color: rgb(17, 17, 18);
 }
 .section2 .container .items .img img {
   width: 200px;
